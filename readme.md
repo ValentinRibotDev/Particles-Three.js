@@ -14,3 +14,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+My first try on particles with Three.js to do an animated waves
+All done following the lessons of Bruno Simon on three.js journey !   
+Go check it out yourself : https://threejs-journey.com.
